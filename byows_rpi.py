@@ -1,3 +1,7 @@
+# must install sudo pip3 install bme280
+# must install sudo pip3 install weewx
+
+
 #!/usr/bin/env python
 """
 Copyright 2019 Jardi A. Martinez Jordan <jardiamj@gmail.com>
