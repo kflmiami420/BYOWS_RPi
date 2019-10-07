@@ -12,7 +12,7 @@ Download the byows_rpi.py file and copy it to your weeWX user directory.
 In Debian it is: /usr/share/weewx/user
 
 ```
-wget https://github.com/jardiamj/BYOWS_RPi/blob/master/byows_rpi.py -O /usr/share/weewx/user/byows_rpi.py
+wget https://raw.githubusercontent.com/kflmiami420/BYOWS_RPi/master/byows_rpi.py      FIXED THE LINK 
 ```
 
 You could install the driver by using git to clone the project into the weewx user folder:
