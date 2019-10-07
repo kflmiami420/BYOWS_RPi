@@ -8,6 +8,9 @@ Distributed under terms of the GPLv3
 
 # Installation
 
+*  must install sudo pip3 install bme280
+*  must install sudo pip3 install weewx
+
 Download the byows_rpi.py file and copy it to your weeWX user directory.
 In Debian it is: /usr/share/weewx/user
 
